@@ -1,0 +1,15 @@
+$lightColor: #47bd87;
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.ali-center {
+    align-items: center;
+}
+
+.between {
+    justify-content: space-between;
+}
